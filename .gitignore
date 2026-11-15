@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Local index & private study PDFs
+data/
+*.db
+*.index
+
+# macOS & Editors
+.DS_Store
+.vscode/
+.env

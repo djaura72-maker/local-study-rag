@@ -1,0 +1,2 @@
+# Required only for PDF ingestion (.md and .txt work with Python stdlib)
+pypdf>=4.0.0
